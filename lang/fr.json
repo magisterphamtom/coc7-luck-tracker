@@ -1,0 +1,20 @@
+{
+  "COC7LUCK": {
+    "ButtonTitle": "Chance du groupe",
+    "WindowTitle": "Chance des investigateurs",
+    "ColName": "Investigateur",
+    "ColLuck": "Chance",
+    "ColEra": "Époque",
+    "Lowest": "Valeur la plus basse",
+    "Refresh": "Actualiser",
+    "NoActors": "Aucun personnage joueur trouvé.",
+    "Era1933": "1933 – Expédition Starkweather-Moore",
+    "EraModern": "2025-2026 – Descendants",
+    "EraUnassigned": "Non assigné",
+    "FilterLabel": "Époque affichée",
+    "Filter1933": "1933",
+    "FilterModern": "2025-2026",
+    "FilterAll": "Les deux",
+    "FilteredEmpty": "Aucun investigateur pour cette époque."
+  }
+}

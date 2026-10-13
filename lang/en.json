@@ -1,0 +1,20 @@
+{
+  "COC7LUCK": {
+    "ButtonTitle": "Party Luck",
+    "WindowTitle": "Investigators' Luck",
+    "ColName": "Investigator",
+    "ColLuck": "Luck",
+    "ColEra": "Era",
+    "Lowest": "Lowest value",
+    "Refresh": "Refresh",
+    "NoActors": "No player character found.",
+    "Era1933": "1933 – Starkweather-Moore Expedition",
+    "EraModern": "2025-2026 – Descendants",
+    "EraUnassigned": "Unassigned",
+    "FilterLabel": "Era shown",
+    "Filter1933": "1933",
+    "FilterModern": "2025-2026",
+    "FilterAll": "Both",
+    "FilteredEmpty": "No investigator for this era."
+  }
+}
