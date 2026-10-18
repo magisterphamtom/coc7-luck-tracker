@@ -1,3 +1,5 @@
+<p align="center"><img src=".github/banner.png" alt="coc7-luck-tracker" width="100%"></p>
+
 # CoC7 – Suivi de Chance du groupe
 
 Petit module pour Foundry VTT (V13/V14) + système **CoC7**.
