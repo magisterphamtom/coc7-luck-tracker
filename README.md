@@ -1,5 +1,11 @@
 <p align="center"><img src=".github/banner.png" alt="coc7-luck-tracker" width="100%"></p>
 
+> **⚠️ Module remplacé — dépôt archivé (novembre 2026)**
+> Ce module fait maintenant partie de **[CoC7 — Suivi du groupe](https://github.com/magisterphamtom/coc7-suivi-groupe)** (Chance, Santé mentale, Liens et Poursuite dans une seule fenêtre à onglets). Les données déjà enregistrées sur les fiches sont reprises telles quelles : installez Suivi du groupe et désactivez celui-ci.
+>
+> Manifeste : `https://github.com/magisterphamtom/coc7-suivi-groupe/releases/latest/download/module.json`
+
+
 # CoC7 – Suivi de Chance du groupe
 
 Petit module pour Foundry VTT (V13/V14) + système **CoC7**.
